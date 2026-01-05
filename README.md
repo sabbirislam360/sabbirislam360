@@ -46,9 +46,6 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirislam360&theme=tokyonight" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbirislam360&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbirislam360&theme=tokyonight" />
 </div>
 
 ---
