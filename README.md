@@ -45,12 +45,10 @@
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirislam360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirislam360&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirislam360&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirislam360&theme=tokyonight" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbirislam360&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbirislam360&theme=tokyonight" />
 </div>
 
 ---
