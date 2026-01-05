@@ -19,7 +19,7 @@
 ### 👨‍💻 **About Me**
 
 - 🎓 I am currently a **Student** and a lifelong learner.
-- 🔭 I’m working on mastering **Full Stack Development**.
+- 🔭 I’m working on **Academic Study**.
 - 🌱 I’m currently learning everything about **Technology & Coding**.
 - 💻 I love exploring new tools and building cool projects.
 
@@ -61,7 +61,7 @@
   <a href="https://sabbirislam.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:urshadow360@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
