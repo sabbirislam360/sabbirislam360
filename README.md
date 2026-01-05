@@ -66,5 +66,5 @@
 
 ---
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"I am a student learning everything from scratch. I might make mistakes, so I hope you will look at them with a kind perspective❤️"</i>
 </div>
